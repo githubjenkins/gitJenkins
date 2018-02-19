@@ -7,7 +7,7 @@ public class De {
 	
 	public int lancer() {
 		double d = Math.random();
-		return (int)(Math.random() * 5 + 1);
+		return (int)(Math.random() * 6 + 1);
 	}
 	
 
